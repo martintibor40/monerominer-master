@@ -1,1 +1,1 @@
-# monerominer-master
+xmrminer-master
